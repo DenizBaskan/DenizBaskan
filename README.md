@@ -1,6 +1,6 @@
 ### 👋 Im Deniz, a 17 year old student
 
-Enjoy reverse engineering games/malware/antibots, web scraping, low level development, backend development and security.
+Enjoy reverse engineering games/malware/antibots, web scraping, low level development, backend development, networks and security.
 
 Languages ranked in order of proficiency: Go/Python/C/JS/C#/C++/Rust
 
